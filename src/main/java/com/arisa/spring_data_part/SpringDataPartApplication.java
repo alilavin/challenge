@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @OpenAPIDefinition(
         info = @Info(
-                title = "Arisa Car",
+                title = "Product Category",
                 version = "1.0.0 beta",
                 description = "First make a Category after that you can make a product",
                 contact = @Contact(
@@ -17,8 +17,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
                         email = "ali.nourmohammadi83@gmail.com"
                 ),
                 license = @License(
-                        url = "http://www.arisa.com",
-                        name = "Arisa"
+                        url = "http://www.Product_Category.com",
+                        name = "Product_Category"
                 )
         )
 
